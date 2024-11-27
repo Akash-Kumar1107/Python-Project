@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(14, 14, 97);
+    font-size: 60px;
+}
+
+body {
+    background-color: white;
+}
+
+#demo {
+    color: rgb(14, 14, 97);
+    font-size: 44px;
+    text-align: center;
+}
